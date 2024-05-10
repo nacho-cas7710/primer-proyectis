@@ -2,6 +2,9 @@
 #numeoro2=int(10)
 #resultado=nuemro1%numeoro2
 #print(resultado)
+#JDISJISORKJR
+#DJDIWREHENJS
+
 
 #numero2=float(2+3.3)
 #print(numero2)
